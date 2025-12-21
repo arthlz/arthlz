@@ -1,7 +1,7 @@
 ## Olá Mundo, eu sou Arthur Luz
 
 
-- 👨‍💻 Estou atualmente estudando lógica de programação somado a html+css+js
+- 👨‍💻 Bachelor's degree in AI at UFPE (2025.2)
 - 📫 Entre em contato: devarthuria@gmail.com // thurluz06@gmail.com
 - 😄 Pronouns: Ele/Dele
 
