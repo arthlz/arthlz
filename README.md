@@ -4,7 +4,7 @@
 
 # Olá Mundo, eu sou Arthur Luz
 
-<img align="right" src="https://github.com/user-attachments/assets/99d74cbd-b08f-4331-aa27-2276d593d444" width="450">
+<img align="right" src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="450">
 
 ### 👨‍💻 Sobre mim
 Sou estudante de **Inteligência Artificial** na UFPE, focado no desenvolvimento de modelos de Machine Learning e Deep Learning. Gosto de resolver problemas complexos com código e criar ferramentas que otimizem o fluxo de trabalho.
