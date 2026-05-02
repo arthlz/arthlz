@@ -1,39 +1,84 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" width="600" alt="Banner Arthur Luz"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthlz&label=Profile%20views&color=0e75b6&style=flat" alt="arthlz" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/arthlz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:devarthuria@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/arthlz">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
-# Olá Mundo, eu sou Arthur Luz
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arthlz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="arthlz views" />
+</p>
 
-<img align="right" src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="450">
+# 🚀 Olá, eu sou Arthur Gabriel Silva da Luz
 
-### 👨‍💻 Sobre mim
-Sou estudante de **Inteligência Artificial** na UFPE, focado no desenvolvimento de modelos de Machine Learning e Deep Learning. Gosto de resolver problemas complexos com código e criar ferramentas que otimizem o fluxo de trabalho.
-
-* 🎓 Graduando em **IA na UFPE** (Início = 2025.2)
-* 🚀 Focado em **Machine Learning**, **Computer Vision e Deep Learning**
-* 🏆 Entusiasta de **Programação Competitiva** (ICPC & LeetCode)
-* 💬 Pergunte-me sobre **Python, C++ e IA**
-* ⚡ Monitor de **Introdução à Programação**
-* 📬 Entre em contato: [devarthuria@gmail.com](mailto:devarthuria@gmail.com)
-
-<br clear="right"/>
+Estudante de **Inteligência Artificial** no Centro de Informática (**CIn-UFPE**). Transformo ideias em soluções para resolver problemas complexos através de algoritmos eficientes e modelos de Machine e Deep Learning.
 
 ---
+
+### 👨‍💻 Sobre Mim
+
+- 🎓 Graduando em **Inteligência Artificial** pela **UFPE**.
+- 🧪 Técnico em **Química Industrial** pelo **IFPE** (Transição de carreira para Tech).
+- ⚡ **Monitor** da disciplina de *Introdução à Programação* no CIn-UFPE.
+- 🤖 Membro da **LIGIA** (Liga Acadêmica de Inteligência Artificial da UFPE).
+- 🏆 Entusiasta de **Programação Competitiva** (Participante do ICPCin e LeetCode).
+- 🌱 Atualmente focado em **Computer Vision**, **Machine Learning** e **Processamento de Linguagem Natural (NLP)**.
+
+---
+
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-44484E?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### 🧠 Inteligência Artificial & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+#### 💻 Desenvolvimento & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthlz&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎮 Atividade no GitHub (Pacman Mode)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthlz/arthlz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthlz/arthlz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthlz/arthlz/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+<p align="center">
+  "O melhor jeito de prever o futuro é criá-lo."
+</p>
