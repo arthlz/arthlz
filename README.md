@@ -68,10 +68,6 @@ Estudante de **Inteligência Artificial** no Centro de Informática (**CIn-UFPE*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthlz&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-### 🎮 Atividade no GitHub (Pacman Mode)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthlz/arthlz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthlz/arthlz/output/pacman-contribution-graph.svg">
