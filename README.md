@@ -27,7 +27,6 @@ Estudante de **Inteligência Artificial** no Centro de Informática (**CIn-UFPE*
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Inteligência Artificial** pela **UFPE**.
-- 🧪 Técnico em **Química Industrial** pelo **IFPE** (Transição de carreira para Tech).
 - ⚡ **Monitor** da disciplina de *Introdução à Programação* no CIn-UFPE.
 - 🤖 Membro da **LIGIA** (Liga Acadêmica de Inteligência Artificial da UFPE).
 - 🏆 Entusiasta de **Programação Competitiva** (Participante do ICPCin e LeetCode).
