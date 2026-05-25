@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" width="600" alt="Banner Arthur Luz"/>
-</p>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World,+I'm+Arthur+Luz!)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/arthlz">
@@ -18,9 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=arthlz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="arthlz views" />
 </p>
 
-# 🚀 Hi, I'm Arthur Gabriel Silva da Luz
-
-I'm an **Artificial Intelligence** student at the Center of Informatics (**CIn-UFPE**). I transform ideas into solutions by solving problems through efficient algorithms and Machine/Deep Learning models.
 
 ---
 
