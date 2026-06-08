@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World,+I'm+Arthur+Luz!)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="www.linkedin.com/in/arthur-exe">
+  <a href="https://www.linkedin.com/in/arthur-exe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:devarthuria@gmail.com">
