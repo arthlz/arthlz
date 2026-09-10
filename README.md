@@ -22,7 +22,6 @@
 ### 👨‍💻 About Me
 
 - Undergraduate student in **Artificial Intelligence** at **UFPE**.
-- **Teaching Assistant** for the *Introduction to Programming* course at CIn-UFPE.
 - Computer Vision Developer at **LIGIA** (Academic League of Artificial Intelligence at UFPE).
 - **Competitive Programming** enthusiast (ICPCin and LeetCode participant).
 - Currently focused on **Computer Vision**, **Machine Learning**, and **Natural Language Processing (NLP)**.
